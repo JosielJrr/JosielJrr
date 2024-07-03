@@ -1,6 +1,7 @@
 # Olá, eu sou Josiel Junior ✌🏻
-- 👨🏻‍💻 Estudante apaixonado por tecnologia, em constante busca por aprendizado e aprimoramento.
-- 🌱 Aprendendo JavaScript.
+- 👨🏻‍💻 Desenvolvedor de software front-end.
+- 📚 Em constante busca por aprendizado e aprimoramento.
+- 🌱 Aprendendo JavaScript e React.
 
 ![JosielJrr GitHub stats](https://github-readme-stats.vercel.app/api?username=JosielJrr&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosielJrr&layout=compact&theme=merko)
