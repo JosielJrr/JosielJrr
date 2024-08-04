@@ -1,7 +1,7 @@
 # Olá, eu sou Josiel Junior ✌🏻
 - 👨🏻‍💻 Desenvolvedor de software front-end.
 - 📚 Em constante busca por aprendizado e aprimoramento.
-- 🌱 Aprendendo JavaScript e React.
+- 🌱 Aprendendo Next.js e React.
 
 ##
 
