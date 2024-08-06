@@ -3,6 +3,15 @@
 - 📚 Em constante busca por aprendizado e aprimoramento.
 - 🌱 Aprendendo Next.js e React.
 
+
+| Cursos | Certificados |
+|--------|--------------|
+| Formação Lógica de Programação | [certificado](https://hermes.dio.me/certificates/BXGIQQHL.pdf) |
+| Formação HTML Web Developer | [certificado](https://hermes.dio.me/certificates/6CCBFBCF.pdf) |
+| Formação CSS Web Developer | [certidicado](https://hermes.dio.me/certificates/ZGHUG5WV.pdf) |
+| Formação JavaScript Developer | [certificado](https://hermes.dio.me/certificates/ZSXV1KZT.pdf) |
+| Formação React Developer | [certificado](https://hermes.dio.me/certificates/5Y0WKA7I.pdf) |
+
 ##
 
 ![JosielJrr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosielJrr&layout=compact&theme=merko)
