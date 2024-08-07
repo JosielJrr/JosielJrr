@@ -1,11 +1,14 @@
 # Olá, eu sou Josiel Junior ✌🏻
+
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINASSAU.
 - 👨🏻‍💻 Desenvolvedor de software front-end.
 - 📚 Em constante busca por aprendizado e aprimoramento.
-- 🌱 Aprendendo Next.js e React.
+- 🌱 Atualmente aprendendo Next.js e React.
 
 | Cursos | Certificados |
 |--------|--------------|
 | Formação Lógica de Programação | [certificado](https://hermes.dio.me/certificates/BXGIQQHL.pdf) |
+| Formação Github Certification | [certificado](https://hermes.dio.me/certificates/RLFXGTUO.pdf) |
 | Formação HTML Web Developer | [certificado](https://hermes.dio.me/certificates/6CCBFBCF.pdf) |
 | Formação CSS Web Developer | [certidicado](https://hermes.dio.me/certificates/ZGHUG5WV.pdf) |
 | Formação JavaScript Developer | [certificado](https://hermes.dio.me/certificates/ZSXV1KZT.pdf) |
