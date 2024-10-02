@@ -10,12 +10,12 @@
 | Formação Lógica de Programação | [certificado](https://hermes.dio.me/certificates/BXGIQQHL.pdf) |
 | Formação Github Certification | [certificado](https://hermes.dio.me/certificates/RLFXGTUO.pdf) |
 | Formação HTML Web Developer | [certificado](https://hermes.dio.me/certificates/6CCBFBCF.pdf) |
-| Formação CSS Web Developer | [certidicado](https://hermes.dio.me/certificates/ZGHUG5WV.pdf) |
+| Formação CSS Web Developer | [certificado](https://hermes.dio.me/certificates/ZGHUG5WV.pdf) |
 | Formação JavaScript Developer | [certificado](https://hermes.dio.me/certificates/ZSXV1KZT.pdf) |
 | Formação TypeScript Fullstack Developer |  [certificado](https://hermes.dio.me/certificates/1BWGKWZO.pdf) |
 | Formação React Developer | [certificado](https://hermes.dio.me/certificates/5Y0WKA7I.pdf) | 
 
-##
+## 📊 Linguagens e Tecnologias
 
 ![JosielJrr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosielJrr&layout=compact&theme=dark)
 
@@ -24,16 +24,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
   
-##
+## 🤝 Vamos nos Conectar!
+
+Estou aberto a colaborações e trocas de ideias. Sinta-se à vontade para me contatar por e-mail ou adicionar no LinkedIn!
 
 [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JosielJrr.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiel-alves/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/josieljj100)
-
-## 🚀 Projetos em Destaque
-
-- [GitHub Profile Viewer](https://github.com/JosielJrr/github-profile-viewer): Uma aplicação React para visualizar perfis e repositórios do GitHub.
-- [Calculadora Web](https://github.com/JosielJrr/calculadora-web): Uma calculadora simples criada usando HTML, CSS e JavaScript.
-
 
