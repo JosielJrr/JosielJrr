@@ -12,6 +12,7 @@
 | Formação HTML Web Developer | [certificado](https://hermes.dio.me/certificates/6CCBFBCF.pdf) |
 | Formação CSS Web Developer | [certidicado](https://hermes.dio.me/certificates/ZGHUG5WV.pdf) |
 | Formação JavaScript Developer | [certificado](https://hermes.dio.me/certificates/ZSXV1KZT.pdf) |
+|Formação TypeScript Fullstack Developer |  [certificado](https://hermes.dio.me/certificates/1BWGKWZO.pdf) |
 | Formação React Developer | [certificado](https://hermes.dio.me/certificates/5Y0WKA7I.pdf) | 
 
 ##
