@@ -7,8 +7,6 @@
 
 | Cursos | Certificados |
 |--------|--------------|
-| Formação Lógica de Programação | [certificado](https://hermes.dio.me/certificates/BXGIQQHL.pdf) |
-| Formação Github Certification | [certificado](https://hermes.dio.me/certificates/RLFXGTUO.pdf) |
 | Formação HTML Web Developer | [certificado](https://hermes.dio.me/certificates/6CCBFBCF.pdf) |
 | Formação CSS Web Developer | [certificado](https://hermes.dio.me/certificates/ZGHUG5WV.pdf) |
 | Formação JavaScript Developer | [certificado](https://hermes.dio.me/certificates/ZSXV1KZT.pdf) |
