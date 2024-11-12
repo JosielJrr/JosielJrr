@@ -7,8 +7,6 @@
 
 ## 📊 Linguagens e Tecnologias
 
-<div align="center">
-
 ![JosielJrr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosielJrr&layout=compact&theme=tokyonight)
 
 <div>
@@ -21,7 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50px" />
 </div>
 
-</div>
 
 ## 📬 Vamos nos Conectar!
 
@@ -33,8 +30,6 @@ Estou aberto a colaborações e trocas de ideias. Sinta-se à vontade para me co
 
 ## 🎖️ Certificações
 
-<div align="center">
-
 | Cursos | Certificados |
 |--------|--------------|
 | Formação HTML Web Developer | [certificado](https://hermes.dio.me/certificates/6CCBFBCF.pdf) |
@@ -43,4 +38,5 @@ Estou aberto a colaborações e trocas de ideias. Sinta-se à vontade para me co
 | Formação TypeScript Fullstack Developer | [certificado](https://hermes.dio.me/certificates/1BWGKWZO.pdf) |
 | Formação React Developer | [certificado](https://hermes.dio.me/certificates/5Y0WKA7I.pdf) |
 | Formação Next.js Developer | [certificado](https://app.horadecodar.com.br/certificates/17/user/545/certificate-authenticity) |
-</div>
+
+
