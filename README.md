@@ -16,7 +16,7 @@
 
 ## 📊 Linguagens e Tecnologias
 
-![JosielJrr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosielJrr&layout=compact&theme=synthwave)
+![JosielJrr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosielJrr&layout=compact&theme=tokyonight)
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px" />
