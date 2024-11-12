@@ -30,13 +30,12 @@ Estou aberto a colaborações e trocas de ideias. Sinta-se à vontade para me co
 
 ## 🎖️ Certificações
 
-| Cursos | Certificados |
-|--------|--------------|
-| Formação HTML Web Developer | [certificado](https://hermes.dio.me/certificates/6CCBFBCF.pdf) |
-| Formação CSS Web Developer | [certificado](https://hermes.dio.me/certificates/ZGHUG5WV.pdf) |
-| Formação JavaScript Developer | [certificado](https://hermes.dio.me/certificates/ZSXV1KZT.pdf) |
-| Formação TypeScript Fullstack Developer | [certificado](https://hermes.dio.me/certificates/1BWGKWZO.pdf) |
-| Formação React Developer | [certificado](https://hermes.dio.me/certificates/5Y0WKA7I.pdf) |
-| Formação Next.js Developer | [certificado](https://app.horadecodar.com.br/certificates/17/user/545/certificate-authenticity) |
+<div align="center">
+  
+| Cursos | Certificados | Cursos | Certificados | 
+|--------|--------------|---------|--------------|
+| Formação HTML Web Developer | [certificado](https://hermes.dio.me/certificates/6CCBFBCF.pdf) |  Formação CSS Web Developer | [certificado](https://hermes.dio.me/certificates/ZGHUG5WV.pdf)  |
+| Formação JavaScript Developer | [certificado](https://hermes.dio.me/certificates/ZSXV1KZT.pdf) | Formação TypeScript Fullstack Developer | [certificado](https://hermes.dio.me/certificates/1BWGKWZO.pdf) |
+| Formação React Developer | [certificado](https://hermes.dio.me/certificates/5Y0WKA7I.pdf)| Formação Next.js Developer | [certificado](https://app.horadecodar.com.br/certificates/17/user/545/certificate-authenticity) |
 
-
+</div>
