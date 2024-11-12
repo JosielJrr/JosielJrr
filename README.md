@@ -7,6 +7,8 @@
 
 ## 📊 Linguagens e Tecnologias
 
+<div align="center">
+
 ![JosielJrr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosielJrr&layout=compact&theme=tokyonight)
 
 <div>
@@ -19,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50px" />
 </div>
 
+</div>
 
 ## 📬 Vamos nos Conectar!
 
