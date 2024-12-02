@@ -11,7 +11,7 @@
   
 ![JosielJrr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosielJrr&layout=compact&theme=tokyonight)
 
-[![My Languages](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next)](https://skillicons.dev)
 </div>
 
 ## 📬 Vamos nos Conectar!
