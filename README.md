@@ -3,7 +3,7 @@
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINASSAU.
 - 👨🏻‍💻 Desenvolvedor de software front-end.
 - 📚 Em constante busca por aprendizado e aprimoramento.
-- 🌱 Atualmente aprendendo Next.js.
+- 🌱 Atualmente aprendendo Next.js e Angular.
 
 ## 📊 Linguagens e Tecnologias
 
@@ -11,7 +11,7 @@
   
 ![JosielJrr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosielJrr&layout=compact&theme=tokyonight)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,js,ts,react,next,angular,figma)](https://skillicons.dev)
 </div>
 
 ## 📬 Vamos nos Conectar!
@@ -34,4 +34,6 @@ Estou aberto a colaborações e trocas de ideias. Sinta-se à vontade para me co
 | Formação HTML Web Developer | [certificado](https://hermes.dio.me/certificates/6CCBFBCF.pdf) |  Formação CSS Web Developer | [certificado](https://hermes.dio.me/certificates/ZGHUG5WV.pdf)  |
 | Formação JavaScript Developer | [certificado](https://hermes.dio.me/certificates/ZSXV1KZT.pdf) | Formação TypeScript Fullstack Developer | [certificado](https://hermes.dio.me/certificates/1BWGKWZO.pdf) |
 | Formação React Developer | [certificado](https://hermes.dio.me/certificates/5Y0WKA7I.pdf)| Formação Next.js Developer | [certificado](https://app.horadecodar.com.br/certificates/17/user/545/certificate-authenticity) |
+| Formação Angular Developer | [certificado](https://hermes.dio.me/certificates/AUDMSJ8E.pdf)| Formação UX Designer | [certificado](https://hermes.dio.me/certificates/7DNLF7IC.pdf) |
+
 </div>
