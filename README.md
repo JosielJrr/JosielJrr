@@ -3,28 +3,31 @@
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINASSAU.
 - 👨🏻‍💻 Desenvolvedor de software front-end.
 - 📚 Em constante busca por aprendizado e aprimoramento.
-- 🌱 Atualmente aprendendo Next.js e Angular.
-
+- 🌱 Atualmente aprendendo Python
 ## 📊 Linguagens e Tecnologias
 
 <div align="center">
   
 ![JosielJrr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosielJrr&layout=compact&theme=tokyonight)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,next,angular,figma,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,next,angular,figma,mysql,python)](https://skillicons.dev)
 </div>
 
 ## 📬 Vamos nos Conectar!
 
-Estou aberto a colaborações e trocas de ideias. Sinta-se à vontade para me contatar por e-mail ou adicionar no LinkedIn!
+Estou aberto a colaborações e trocas de ideias. Fique à vontade para me chamar por e-mail, LinkedIn ou Discord. 
 
 <div align="center">
 
 [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JosielJrr.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiel-alves/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/josieljj100)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiel-alves/)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/josieljrr.)
+[![Perfil DIO](https://img.shields.io/badge/-Perfil%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/josieljj100)
+
 </div>
 
+
+<!--
 ## 🎖️ Certificações
 
 <div align="center">
@@ -37,3 +40,4 @@ Estou aberto a colaborações e trocas de ideias. Sinta-se à vontade para me co
 | Formação Angular Developer | [certificado](https://hermes.dio.me/certificates/AUDMSJ8E.pdf)| Formação UX Designer | [certificado](https://hermes.dio.me/certificates/7DNLF7IC.pdf) |
 
 </div>
+-->
