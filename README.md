@@ -3,7 +3,7 @@
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINASSAU.
 - 👨🏻‍💻 Desenvolvedor de software front-end.
 - 📚 Em constante busca por aprendizado e aprimoramento.
-- 🌱 Atualmente aprendendo Python
+- 🌱 Atualmente aprendendo Python.
 ## 📊 Linguagens e Tecnologias
 
 <div align="center">
