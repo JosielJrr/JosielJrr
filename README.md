@@ -22,7 +22,8 @@ Estou aberto a colaborações e trocas de ideias. Fique à vontade para me chama
 [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JosielJrr.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiel-alves/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/josieljrr.)
-[![Perfil DIO](https://img.shields.io/badge/-Perfil%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/josieljj100)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-4B0082?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://josieljrr.github.io/portfolio-react/)
+<!-- [![Perfil DIO](https://img.shields.io/badge/-Perfil%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/josieljj100) -->
 
 </div>
 
