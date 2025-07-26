@@ -28,7 +28,7 @@ Estou aberto a colaborações e trocas de ideias. Fique à vontade para me chama
 </div>
 
 
-<!--
+
 ## 🎖️ Certificações
 
 <div align="center">
@@ -41,4 +41,4 @@ Estou aberto a colaborações e trocas de ideias. Fique à vontade para me chama
 | Formação Angular Developer | [certificado](https://hermes.dio.me/certificates/AUDMSJ8E.pdf)| Formação UX Designer | [certificado](https://hermes.dio.me/certificates/7DNLF7IC.pdf) |
 
 </div>
--->
+
