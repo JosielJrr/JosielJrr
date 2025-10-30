@@ -1,7 +1,7 @@
 # Olá, eu sou Josiel Junior ✌🏻 
 
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNINASSAU.
-- 👨🏻‍💻 Desenvolvedor de software front-end.
+- 👨🏻‍💻 Desenvolvedor de software front-end júnior.
 - 📚 Em constante busca por aprendizado e aprimoramento.
 - 🌱 Atualmente aprendendo Python.
 ## 📊 Linguagens e Tecnologias
