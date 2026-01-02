@@ -9,7 +9,7 @@
 <div align="center">
   
 <!--![JosielJrr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosielJrr&layout=compact&theme=tokyonight) -->
-</img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JosielJrr&theme=tokyonight" alt="Linguagens mais usadas"/> 
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JosielJrr&theme=tokyonight" alt="Linguagens mais usadas"/> 
  
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,next,angular,figma,mysql,python)](https://skillicons.dev)
 </div>
